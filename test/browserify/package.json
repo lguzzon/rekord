@@ -10,6 +10,6 @@
   "author": "Philip Diffenderfer <pdiffenderfer@gmail.com> (http://github.com/ClickerMonkey)",
   "dependencies": {
     "browserify": "^14.3.0",
-    "qunitjs": "^2.3.0"
+    "qunitjs": "^2.3.1"
   }
 }
